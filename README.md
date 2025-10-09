@@ -1,2 +1,2 @@
-# VibeVoice Project Page
-Checkout our project page at [https://microsoft.github.io/VibeVoice](https://microsoft.github.io/VibeVoice)
+# U-Codec Project Page
+Checkout our project page at [https://yangxusheng-yxs.github.io/U-Codec/](https://yangxusheng-yxs.github.io/U-Codec/)
